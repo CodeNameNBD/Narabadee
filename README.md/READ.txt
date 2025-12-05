@@ -1,0 +1,2 @@
+git add README.md
+git commit -m "A: Initial setup and adding README"
